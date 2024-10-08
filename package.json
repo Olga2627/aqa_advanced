@@ -1,0 +1,26 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "import the chalk dependencie",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olga2627/aqa_advanced.git"
+  },
+  "keywords": [
+    "chalk"
+  ],
+  "author": "Olha Lavrynenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olga2627/aqa_advanced/issues"
+  },
+  "homepage": "https://github.com/Olga2627/aqa_advanced#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
